@@ -1,3 +1,19 @@
 body{
     background-color: aquamarine;
+    color: white;
+    margin: 0%;
+}
+
+nav{
+    align-items: center;
+    background-color: antiquewhite;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a{
+    font-size: 14pt;
+    color: indigo;
+    text-decoration: lawngreen;
 }
