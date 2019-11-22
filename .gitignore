@@ -6,4 +6,4 @@ venv
 vscode
 code
 .vscode
-__pycache__/
+__pycache__
